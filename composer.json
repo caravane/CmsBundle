@@ -5,6 +5,15 @@
             "Caravane\\CmsBundle" : "src"
         }
     },
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/framework-bundle": "~2.3",
+        "symfony/twig-bundle": "~2.3",
+        "symfony/form": "~2.3",
+        "symfony/security-bundle": "~2.3"
+        "friendsofsymfony/user-bundle": "~2.0@dev",
+        "friendsofsymfony/jsrouting-bundle": "dev-master"
+    },
     "repositories": [
 	    {
 	        "type": "vcs",
