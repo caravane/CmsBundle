@@ -1,0 +1,14 @@
+{
+    "name": "caravane/cms-bundle",
+    "autoload": {
+        "psr-0" : {
+            "Caravane\\CmsBundle" : "src"
+        }
+    },
+    "repositories": [
+	    {
+	        "type": "vcs",
+	        "url": "https://github.com/caravane/CmsBundle"
+	    }
+	]
+}
